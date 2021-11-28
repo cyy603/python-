@@ -1,1 +1,19 @@
-
+#识别相同部分
+c = 0
+nums = [2,14,18,22,22]
+for i in range(len(nums)):
+    a = nums[i]
+    for j in range(len(nums)):
+        b = nums[j]
+        if a == b:
+            c = c + 1
+if c >= 2:
+    d = True
+else:
+    d = False
+print(d)
+#优化代码：
+#if len(list(set(nums))) != len(nums):
+#   return false
+#else:
+#   return True
