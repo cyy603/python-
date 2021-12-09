@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SDIM_ML_Week1", "SDIM_ML_Week1.pyproj", "{C94E4609-90CB-4F46-AD35-62D071BB82F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94E4609-90CB-4F46-AD35-62D071BB82F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94E4609-90CB-4F46-AD35-62D071BB82F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10000957-7C7A-4036-9CB9-95D56DD70731}
+	EndGlobalSection
+EndGlobal
